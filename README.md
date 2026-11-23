@@ -1,6 +1,6 @@
 # SNCA
 
-This is the code repository of the ariticle **Boosting adversarial transferability via spatial-neighborhood composite**
+This is the official code repository for the paper **Boosting Adversarial Transferability via Spatial-Neighborhood Composite**.
 
 # Environment Setup
 
